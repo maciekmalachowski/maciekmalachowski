@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+My name is ``Maciek`` and I am a high school student 📚.
 
-<!--
-**maciekmalachowski/maciekmalachowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **conscientious** and **hardworking** person with an interest in Data Science. 
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:maciejmalachowski1@gmail.com)
+[![Linkedin](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/maciej-małachowski-749577228/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+ - 🐍Python
+ - 💻HTML
+ - 🖌CSS
+ - 📟C#
+ - 📊MySQL
+ - 💾Git
+ - 🗃GitHub
+
+I'm learning some **Django** right now, so maybe I can add this to my skillset in the future.
