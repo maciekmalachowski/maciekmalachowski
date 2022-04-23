@@ -8,6 +8,7 @@ I am a **conscientious** and **hardworking** person with an interest in Data Sci
 
 ### Skills:
  - 🐍Python
+ - 📝Selenium
  - 💻HTML
  - 🖌CSS
  - 📟C#
