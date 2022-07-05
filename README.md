@@ -18,3 +18,5 @@ and I see myself as a conscientious and hardworking person with an interest in D
  - 🗃GitHub
 
 I'm learning some **Django** right now, so maybe I can add this to my skillset in the future.
+
+![](https://komarev.com/ghpvc/?username=maciekmalachowski&style=flat&color=blue)
