@@ -19,6 +19,7 @@ and I see myself as a conscientious and hardworking person with an interest in D
  - 📊MySQL
  - 💾Git
  - 🗃GitHub
+ - 🎨Bootstrap
 
 I'm learning some **Django** right now, so maybe I can add this to my skillset in the future.
 
