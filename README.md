@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Maciek</h1>
 
-<h2 align="center"> I am a high school student 📚
+<h2 align="center"> I am a young student 📚
 and I see myself as a conscientious and hardworking person with an interest in Data Science. </h2>
 <h2 align="center"> Take a look at my portfolio <br>
 ➡ https://maciekmalachowski.pl ⬅</h2>
