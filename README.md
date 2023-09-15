@@ -12,6 +12,7 @@ and I see myself as a conscientious and hardworking person with an interest in D
 ### Skills:
  - 🐍Python
  - ⚙ Machine Learning (numpy, pandas, etc.)
+ - 📓Jupyter notebook
  - 📝Selenium
  - 💻HTML
  - 🖌CSS
