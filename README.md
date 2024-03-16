@@ -1,27 +1,30 @@
-<h1 align="center"> Hi there 👋 I'm Maciek</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maciekmalachowski&label=Profile%20views&color=0e75b6&style=flat" alt="maciekmalachowski" /> </p>
 
-<h2 align="center"> I am a young student 📚
-and I see myself as a conscientious and hardworking person with an interest in Data Science. </h2>
-<h2 align="center"> Take a look at my portfolio <br>
-➡ https://maciekmalachowski.pl ⬅</h2>
+<h1 align="center">Hi 👋, I'm Maciek</h1>
+<h3 align="center">Student and enthusiast of AI/Data Science</h3>
+<br>
+<p align="center"> 👨‍💻 My portfolio: <a href="https://maciekmalachowski.pl](https://maciekmalachowski.pl)">See for yourself</a> </p>
 
-### You can reach me by `email` or `linkedin`.
-[![Email](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:maciejmalachowski1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/maciej-małachowski-749577228/)
+<p align="center"> 🔭 I’m currently working on <a href="https://github.com/maciekmalachowski/Docs-ai-chatbot">Docs-ai-chatbot</a></p>
 
-### Skills:
- - 🐍Python
- - ⚙ Machine Learning (numpy, pandas, etc.)
- - 📓Jupyter notebook
- - 📝Selenium
- - 💻HTML
- - 🖌CSS
- - 📟C#
- - 📊MySQL
- - 💾Git
- - 🗃GitHub
- - 🎨Bootstrap
+<p align="center"> 🌱 I’m currently learning <b>Machine Learning</b>, <b>Chatbots</b> and <b>Streamlit</b> </p>
 
-I'm learning some **Django** right now, so maybe I can add this to my skillset in the future.
+<h3 align="center">📫 How to reach me</h3>
+<p align="center">
+<a href="mailto:maciejmalachowski1@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maciej-małachowski-749577228"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-![](https://komarev.com/ghpvc/?username=maciekmalachowski&style=flat&color=blue)
+<hr>
+
+<h3 align="center">🧰Languages and Tools</h3>
+<h4 align="center">I use regularly</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,html,css,sklearn" />
+</p>
+<h4 align="center">I had contact with</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,php,bootstrap,cs,java,js" /><br>
+<img src="https://skillicons.dev/icons?i=githubactions,selenium,django,sass,latex,netlify,r" />
+</p>
+
+
