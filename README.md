@@ -23,8 +23,8 @@
 </p>
 <h4 align="center">I had contact with</h4>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,php,bootstrap,cs,java,js" /><br>
-<img src="https://skillicons.dev/icons?i=githubactions,selenium,django,sass,latex,netlify,r" />
+<img src="https://skillicons.dev/icons?i=mysql,php,bootstrap,cs,java,js,tailwind,react" /><br>
+<img src="https://skillicons.dev/icons?i=githubactions,selenium,django,sass,latex,netlify,r,typescript,nextjs" />
 </p>
 
 
