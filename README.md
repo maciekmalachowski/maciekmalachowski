@@ -5,7 +5,7 @@
 <br>
 <p align="center"> 👨‍💻 My portfolio: <a href="https://maciekmalachowski.pl">See for yourself</a> </p>
 
-<p align="center"> 🔭 I’m currently working on <a href="https://github.com/mljar/mljar-supervised">mljar-supervised</a></p>
+<p align="center"> 🔭 I’m currently working on <a href="https://github.com/maciekmalachowski/Machine-learning-algorithm-comparison">Machine-learning-algorithm-comparison</a></p>
 
 <p align="center"> 🌱 I’m currently learning <b>Machine Learning</b>, <b>Chatbots</b> and <b>Streamlit</b> </p>
 
