@@ -5,7 +5,7 @@
 <br>
 <p align="center"> 👨‍💻 My portfolio: <a href="https://maciekmalachowski.pl">See for yourself</a> </p>
 
-<p align="center"> 🔭 I’m currently working on <a href="https://github.com/maciekmalachowski/JobSift">JobSift</a></p>
+<p align="center"> 🔭 I’m currently working on <a href="https://github.com/maciekmalachowski/SmartMailer">SmartMailer</a></p>
 
 <p align="center"> 🌱 I’m currently learning <b>Machine Learning</b>, <b>Chatbots</b>, <b>LLM's</b> and <b>Generative AI</b>  </p>
 
