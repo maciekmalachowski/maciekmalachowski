@@ -7,7 +7,7 @@
 
 <p align="center"> 🔭 I’m currently working on <a href="https://github.com/maciekmalachowski/SmartMailer">SmartMailer</a></p>
 
-<p align="center"> 🌱 I’m currently learning <b>Machine Learning</b>, <b>Chatbots</b>, <b>LLM's</b> and <b>Generative AI</b>  </p>
+<p align="center"> 🌱 I’m currently learning <b>Machine Learning</b>, <b>AI agents</b>, <b>LLM's</b> and <b>Generative AI</b>  </p>
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
