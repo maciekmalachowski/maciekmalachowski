@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Maciek</h1>
 <h3 align="center">Student and enthusiast of AI/Data Science</h3>
 <br>
-<p align="center"> 👨‍💻 My portfolio: <a href="https://maciekmalachowski.pl">See for yourself</a> </p>
 
-<p align="center"> 🔭 I’m currently working on <a href="https://github.com/maciekmalachowski/DreamTrip">DreamTrip</a></p>
+<p align="center"> 🔭 I’m currently working at <a href="https://automee.pl">AutoMEE</a></p>
 
 <p align="center"> 🌱 I’m currently learning <b>Machine Learning</b>, <b>AI agents</b>, <b>LLM's</b> and <b>Generative AI</b>  </p>
 
