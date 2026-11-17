@@ -8,31 +8,46 @@
 <p align="center">
   <a href="mailto:maciejmalachowski1@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/maciej-małachowski-749577228"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://maciekmalachowski.pl"><img src="https://img.shields.io/badge/Portfolio-191919?style=for-the-badge&logo=astro&logoColor=white"/></a>
 </p>
 
 <hr>
 
 <h3 align="center">👨‍💻 About me</h3>
 
-I work in the IT department of a staffing group running several companies on a single ERP. My job is to find repetitive, error-prone business processes and replace them with reliable automation, with a growing focus on **AI**: LLM-based agents, retrieval over internal knowledge bases and AI-assisted engineering.
-
-- 🤖 **AI first** – designing LLM-powered tools and agents, and using Claude Code / Codex as my everyday development environment
-- ⚙️ **Process automation** – end-to-end workflows connecting ATS, HR/ERP, e-learning, helpdesk and marketing systems
-- 📊 **Data & reporting** – SQL data warehouse, analytical dashboards and BI reports for recruitment, HR and sales
-- 🔌 **Integrations** – REST APIs, webhooks and custom ERP add-ons
+I find repetitive, error-prone business processes and replace them with reliable automation, with a focus on **AI**: LLM-based agents, document understanding, retrieval over knowledge bases and AI-assisted engineering. I work end to end, from scraping and data extraction, through databases and APIs, to dashboards and the workflows that tie systems together.
 
 <hr>
 
-<h3 align="center">🚀 What I build</h3>
+<h3 align="center">🚀 What I've built</h3>
 
-| Area | Examples |
-|---|---|
-| **Workflow automation** | n8n pipelines for lead capture (Facebook / TikTok → ATS), absence and remote-work sync between HR systems and the ERP, scheduled e-mail campaigns, e-learning reminders |
-| **AI & knowledge bases** | LLM-assisted tooling, RAG-ready documentation, internal "ask the ERP" knowledge extraction from decompiled code metadata |
-| **Dashboards** | Streamlit apps for recruitment analytics and sales pipeline reporting, dockerised and deployed from a private registry |
-| **Backend & APIs** | C# / .NET 8 add-on exposing a REST API for the ERP; Python services and scheduled sync jobs |
-| **Browser tooling** | Chrome (Manifest V3) extensions automating bulk operations in recruitment systems |
-| **Data layer** | T-SQL views and procedures, Power Query, Power BI reports on a central data warehouse |
+**🤖 AI agents & document intelligence**
+- **Sea-freight rate platform**: scraping agents plus an AI layer that collect, normalize, store, search and compare rates from multiple carriers, replacing manual multi-source checking
+- **Invoice & CMR extraction**: pulls data from carrier invoices and transport documents into structured Excel templates, including foreign-invoice formats, cutting manual re-entry
+- **Accounting data validator for ERP**: AI cross-checks hundreds of accounting rows against source documents and flags discrepancies before the final import
+
+**⚙️ Process automation (n8n)**
+- Lead capture from Facebook and TikTok ads straight into the recruitment ATS
+- Absence and remote-work sync between the HR system and the ERP via a custom API
+- Scheduled e-mail campaigns, e-learning reminders and public-registry data imports
+
+**🔌 Integrations & backend**
+- C# / .NET 8 add-on exposing a REST API for the ERP
+- Python services and scheduled sync jobs on top of REST APIs and webhooks
+- Chrome (Manifest V3) extensions automating bulk operations in recruitment systems
+
+**📊 Data, dashboards & reporting**
+- Streamlit dashboards for recruitment analytics and sales pipeline, dockerised and deployed from a private registry
+- T-SQL views and procedures, Power Query and Power BI reports on a central data warehouse
+
+**🧪 Personal projects**
+- [**AI Budget Assistant**](https://github.com/maciekmalachowski/ai-budget-assistant): bank CSVs → categorized, queryable spending with Claude, tool-calling over a SELECT-only database role (Next.js, TypeScript, Supabase)
+- [**SmartMailer**](https://github.com/maciekmalachowski/SmartMailer): multi-LLM agent for e-mail, data retrieval and record-keeping (GPT-4, Ollama, LlamaIndex)
+- [**Docs AI Chatbot**](https://github.com/maciekmalachowski/Docs-ai-chatbot): RAG chat over PDF and CSV files on a fully local LLM stack (LangChain, Mistral 7B, Streamlit, Docker)
+
+<p align="center">
+  <a href="https://maciekmalachowski.pl"><b>Full portfolio → maciekmalachowski.pl</b></a>
+</p>
 
 <hr>
 
